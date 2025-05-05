@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "jT0ag4510Q4XVvI8qOXN6IPVgxhTyah4clUS21bd"
+API_KEY = "*****"
 URL = "https://api.nasa.gov/neo/rest/v1/feed"
 
 # Ottenere i dati sugli asteroidi
